@@ -1,0 +1,14 @@
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.exe
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.deps.json
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.runtimeconfig.json
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.dll
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.pdb
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfoInputs.cache
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfo.cs
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.dll
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\refint\ThrowExceptions101.dll
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.pdb
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.genruntimeconfig.cache
+C:\Users\mckin\Documents\CSharp Projects\Microsoft Certification\ThrowExceptions101\obj\Debug\net8.0\ref\ThrowExceptions101.dll
